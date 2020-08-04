@@ -1,12 +1,8 @@
 # Bancoin Core
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ARKEcosystem/core/master/banner.png" />
-</p>
-
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
-> Lead Maintainer: [Jose Alejandro Matute](https://github.com/jamcont)
+> Responsable de Mantenimiento: [Jose Alejandro Matute](https://github.com/jamcont)
 
 ## Introduccion
 
