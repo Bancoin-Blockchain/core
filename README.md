@@ -27,9 +27,9 @@ Si descubre una vulnerabilidad de seguridad dentro de este paquete, envíe un co
 
 ## Creditos
 
-Basedo en [Ark Core](https://github.com/ArkEcosystem).
+Basado en [Ark Core](https://github.com/ArkEcosystem).
 
--   [All Contributors](../../contributors)
+-   [Todos los colaboradores](../../contributors)
 -   [Alex Barnsley](https://github.com/alexbarnsley)
 -   [Brian Faust](https://github.com/faustbrian)
 -   [François-Xavier Thoorens](https://github.com/fix)
